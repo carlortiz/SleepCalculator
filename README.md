@@ -12,3 +12,4 @@ Project is created with
 
 # How To Use
 
+Create a clone of this project and store it in a folder. Open up Pycharm, an navigate to the folder you placed it in. Once there, select the folder and open it up, and all you need to do is run the program.
